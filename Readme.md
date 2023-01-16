@@ -6,7 +6,12 @@ OpenAPI is the de-facto standard specification for writing highly interoperable,
 
 There are [several tools](https://apis.guru/awesome-openapi3/) that supports OpenAPI and enhance the experience of working with it.
 
-In this talk we will use a full bag of shiny new tools for working, and quickly producing production-ready services, with OpenAPI from the design of the server side to the generation of SDKs to interact with it.
+In this talk we will use a full bag of shiny new tools for working, and quickly producing production-ready services.
+
+- Designing API specs using API Designer
+- Registering API specs to Service Registry
+- Generating the boilerplate and implementing a Quarkus service using a Quarkus Extension
+- Generating fully functional SDKs with Kiota to be used in front-end and CLIs
 
 ## Author
 
@@ -14,7 +19,7 @@ Andrea Peruffo is an all-around software developer with experience in delivering
 
 Principal Software Engineer at Red Hat.
 
-## Content
+## Extended Content
 
 - introduction to API Designer
 - write an OpenAPI specification with API Designer
