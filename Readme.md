@@ -2,20 +2,20 @@
 
 ## Abstract
 
-OpenAPI is the de-facto standard specification for writing highly interoperable, production ready REST APIs.
+OpenAPI is the de-facto standard specification for writing highly interoperable, production-ready REST APIs.
 
-With contract first development, you can write the language-agnostic specification in first place and get most of the implementations generated for you.
+With contract-first development, you can write a language-agnostic specification first, and get most of the implementations generated for you.
 
-In this talk we will go through the steps of starting from zero and delivering, almost hands off, a production-ready service leveraging state-of-the-art tools and writing as little code as necessary.
+In this talk we will go through all the steps: we will start from scratch and will end with delivering, almost hands-off, a production-ready service, leveraging state-of-the-art tooling, and writing as little code as necessary.
 
 - Designing API specs using API Designer
-- Registering API specs to Service Registry
+- Registering API specs to a Service Registry
 - Generating the boilerplate and implementing a Quarkus service using a Quarkus Extension
 - Generating fully functional SDKs with Kiota to be used in front-end and CLIs
 
 ## Author
 
-Andrea Peruffo is an all-around software developer with experience in delivering software systems of any kind. He has experience in many different fields, like embedded controllers, cloud infrastructures, PLCs, BigData platforms, FPGAs, microservices etc. etc. Fond in hands-on code development and contributor to several Open Source projects.
+Andrea Peruffo is an all-around software developer with experience in delivering software systems of any kind. He has experience in many different fields, like embedded controllers, cloud infrastructures, PLCs, BigData platforms, FPGAs, microservices etc. etc. Fond of hands-on code development and is a contributor to several Open Source projects.
 
 Principal Software Engineer at Red Hat.
 
