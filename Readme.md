@@ -4,9 +4,9 @@
 
 OpenAPI is the de-facto standard specification for writing highly interoperable, production ready REST APIs.
 
-There are [several tools](https://apis.guru/awesome-openapi3/) that supports OpenAPI and enhance the experience of working with it.
+With contract first development, you can write the language-agnostic specification in first place and get most of the implementations generated for you.
 
-In this talk we will use a full bag of shiny new tools for working, and quickly producing production-ready services.
+In this talk we will go through the steps of starting from zero and delivering, almost hands off, a production-ready service leveraging state-of-the-art tools and writing as little code as necessary.
 
 - Designing API specs using API Designer
 - Registering API specs to Service Registry
